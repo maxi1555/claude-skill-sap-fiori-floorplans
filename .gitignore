@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Node (in case you add scripts later)
+node_modules/
+
+# Editors
+.vscode/
+.idea/
+
+# The built .skill artifact (we attach it to GitHub Releases, not commit it)
+*.skill
